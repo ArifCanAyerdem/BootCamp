@@ -102,4 +102,5 @@ Alınan kararlar: Yeni Düzenlemeler oluşturulup yeni toplantılar ayarlanmış
 ##Detaylar :
 
 -Sprintler hakkında bilgilere ulaşmak isterseniz asset dosyası içinde ProjectManagement kısmından ulaşabilirsiniz şuanlık sadece 1.sprint oldugu için dosyalara bölünmemiştir.
+-Tekrardan hatırlatma adına yüz yüze yapılan yoplantılardaki bilgiler buraya eklenmemiştir.
 
