@@ -74,7 +74,7 @@ Daha mekanikler hakkında araştırmave çizimler yapılıyor 2.sprinte çizimle
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]([https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png](https://github.com/ArifCanAyerdem/BootCamp/blob/main/Assets/ProjectManagement/11.jpg))
+  ![Screenshot 1](Assets/ProjectManagement/11.jpg)
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
   ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
 - **Sprint Review**: 
