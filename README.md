@@ -78,7 +78,7 @@ Daha mekanikler hakkında araştırmave çizimler yapılıyor 2.sprinte çizimle
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
   ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+Alınan kararlar: Yeni Düzenlemeler oluşturulup yeni toplantılar ayarlanmış olup ekipçe sahne tasarlanmalarına geçilecektir.
 
 - **Sprint Retrospective:**
   - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
