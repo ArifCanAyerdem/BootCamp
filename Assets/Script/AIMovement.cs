@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AIMovement : MonoBehaviour
 {
-    public float movementSpeed = 5f;
+    public float movementSpeed = 4f;
     public float rotationSpeed = 100f;
 
     private bool isWandering = false;
@@ -50,9 +50,9 @@ public class AIMovement : MonoBehaviour
     {
         int rotationTime = Random.Range(1, 1);
         int rotateWait = Random.Range(1, 1);
-        int rotateDirection = Random.Range(1, 3);
+        int rotateDirection = Random.Range(1, 2);
         int walkWait = Random.Range(1, 1);
-        int walkTime = Random.Range(1, 3);
+        int walkTime = Random.Range(1, 2);
 
         isWandering = true;
 
