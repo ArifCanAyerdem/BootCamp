@@ -153,105 +153,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1842303708}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1369299746
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1768926816062658148, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_Name
-      value: NPC Yerli
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 3.39
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.99999976
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.12262726
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658152, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1768926816062658154, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 1d650b351876af3438856913bdd28285, type: 2}
-    m_RemovedComponents:
-    - {fileID: 1768926816062658153, guid: 8dfb71e89de38bf4d9964c21af5d9eab, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: 8dfb71e89de38bf4d9964c21af5d9eab, type: 3}
---- !u!1 &1415576657 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1768926816062658148, guid: 8dfb71e89de38bf4d9964c21af5d9eab,
-    type: 3}
-  m_PrefabInstance: {fileID: 1369299746}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1415576658
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1415576657}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2820e70f72120af448cfe21548caef7f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  npc: {fileID: 11400000, guid: 58a9acf9dd262f54491024b308f37191, type: 2}
-  player: {fileID: 0}
-  dialogueUI: {fileID: 1330029339}
-  npcName: {fileID: 753018160}
-  npcDialogueBox: {fileID: 2064820485}
-  playerResponse: {fileID: 1133419807}
 --- !u!1 &1644953650
 GameObject:
   m_ObjectHideFlags: 0
@@ -783,6 +684,95 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
+--- !u!1001 &905885386663330147
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.0122638
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.0000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.5121322
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684336, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498149575568684348, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: m_Name
+      value: NPC Yerli 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6107202674911708200, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: npcName
+      value: 
+      objectReference: {fileID: 753018160}
+    - target: {fileID: 6107202674911708200, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 1330029339}
+    - target: {fileID: 6107202674911708200, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: npcDialogueBox
+      value: 
+      objectReference: {fileID: 2064820485}
+    - target: {fileID: 6107202674911708200, guid: 9725c84c2d239c44884fec4c86c9c2e3,
+        type: 3}
+      propertyPath: playerResponse
+      value: 
+      objectReference: {fileID: 1133419807}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9725c84c2d239c44884fec4c86c9c2e3, type: 3}
 --- !u!1001 &7524528973938650621
 PrefabInstance:
   m_ObjectHideFlags: 0
