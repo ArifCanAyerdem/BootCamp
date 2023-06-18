@@ -15,10 +15,6 @@ Takım Unity 52
 
 --⚡ Eternal Odyssey ⚡--
 
-## Product Backlog URL
-
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
-
 ## Ürün Açıklaması
 
 "Eternal Odyssey", sizi keşif dolu bir deniz yolculuğuna çıkaracak heyecan verici bir macera oyunudur. Bu büyüleyici dünyada, cesur bir kahraman olarak, adalara gitmek, zorlu denizleri aşmak ve gizemli adalarda eşsiz görevler üstlenmek için çağrılıyorsunuz.
@@ -54,7 +50,7 @@ Her adada farklı türden engellerle karşılaşacak olan oyuncular, mantık bul
 
 ## Juriye Not
 
-Daha mekanikler hakkında araştırmave çizimler yapılıyor 2.sprinte çizimler eklenecektir.
+Bazı toplantılar yüz yüze yapılmış olup herhangi bir belge ile desteklenmemiştir.Bu nedenle elimizde kısıtlı görev dağılım verisi bulunmaktadır.Böyle durumlar karşısındaki yapmamız gereken şeyleri unuttugumuz için ekip adına özür dilerim.Daha mekanikler hakkında araştırmalar ve çizimler yapılıyor 2.sprinte çizimler ve araştırmalar  eklenecektir.
 
 
 ---
@@ -67,16 +63,18 @@ Daha mekanikler hakkında araştırmave çizimler yapılıyor 2.sprinte çizimle
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ve Dc üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Product Backlog olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+- **Sprint board update**: Sprint board screenshotları:  Product Backlog kısmında ekran görüntülerinden görebilirsiniz.
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](Assets/ProjectManagement/11.jpg)
   ![Screenshot 2](Assets/ProjectManagement/222222222.jpg)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+  ![Screenshot 3](Assets/ProjectManagement/eceeeeeeeee.png)
+  ![Screenshot 3](Assets/ProjectManagement/477747474.png)
+   ![Screenshot 3](Assets/ProjectManagement/111111.jpg)
 - **Sprint Review**: 
 Alınan kararlar: Yeni Düzenlemeler oluşturulup yeni toplantılar ayarlanmış olup ekipçe sahne tasarlanmalarına geçilecektir.
 
@@ -89,9 +87,15 @@ Alınan kararlar: Yeni Düzenlemeler oluşturulup yeni toplantılar ayarlanmış
 
 ---
 
-## Product Backlog URL
+## Product Backlog : Ekran görüntüleri:
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+![Screenshot 1](Assets/ProjectManagement/474747.png)
+![Screenshot 1](Assets/ProjectManagement/4747474747.png)
+![Screenshot 1](Assets/ProjectManagement/47474774.png)
+![Screenshot 1](Assets/ProjectManagement/747474.png)
+![Screenshot 1](Assets/ProjectManagement/7474747.png)
+![Screenshot 1](Assets/ProjectManagement/discord.png)
+
 
 ---
 
